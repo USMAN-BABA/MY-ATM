@@ -34,7 +34,7 @@ if (pinNumber.pin === myPin) {
             myBalance -= amountAns.amount;
             console.log(`You withdraw ${amountAns.amount}`);
             console.log(`. Now,Your remaining Balance is ${myBalance}`);
-            console.log("Thanks for using This ATM.");
+            console.log("\nThanks for using This ATM.");
         }
     }
     else if (operationAns.operation === "CheckBalance") {

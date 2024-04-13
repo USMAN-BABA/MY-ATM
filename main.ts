@@ -50,7 +50,7 @@ if (pinNumber.pin === myPin) {
        
 
 
-       console.log("Thanks for using This ATM.");
+       console.log("\nThanks for using This ATM.");
 
      }
        } else if (operationAns.operation === "CheckBalance") {
